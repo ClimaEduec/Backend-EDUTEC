@@ -1,0 +1,17 @@
+Your account number is: 1032553
+
+Your new database is now ready to use.
+
+To connect to your database use these details;
+
+Host: sql10.freesqldatabase.com
+Database name: sql10746187
+Database user: sql10746187
+Database password: Niwu4ElQQH
+Port number: 3306
+
+
+
+                                                    decodificar algo
+            console.log(`ID:${decoded.id}`)
+            console.log(`ID:${decoded.email}`)
