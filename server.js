@@ -125,7 +125,7 @@ app.post("/results", (request, response)=>{
 
     db.query(searchCommand,[decoded.id], (error,data)=>{
         if (error) {
-            // Tratar erro da consulta no banco de dados
+            
             console.log("Erro na consulta:", error);
             return
         }
